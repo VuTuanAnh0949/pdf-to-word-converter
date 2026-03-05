@@ -102,8 +102,8 @@ PDF to Word Converter is a simple yet powerful web application built with **Stre
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/VuTuanAnh0949/PDF_to_Word_Converter.git
-cd PDF_to_Word_Converter
+git clone https://github.com/VuTuanAnh0949/pdf-to-word-converter.git
+cd pdf-to-word-converter
 ```
 
 ### 2. Create virtual environment (recommended):
